@@ -23,7 +23,7 @@ END_modes
 
 START_mechanisms
 #### Mechanisms
-1. Rhythm. Connected prose: one thought per paragraph, connectives between sentences; no telegraphic style, no scattered fragments.
+1. Rhythm. Connected prose: a paragraph holds one thought and runs no longer than four sentences; a large topic (scenario, process, comparison) unfolds as a chain of paragraphs, not a single paragraph. Connectives between sentences; no telegraphic style, no scattered fragments.
 2. Self-sufficiency. A term or concept gets a brief reminder from the session context at its first use — reactivating what was already given, not re-explaining from scratch.
 3. Essence → details. The first block of the answer is the essence: conclusion, state, decision — briefly. Then details with the context needed to understand them. The first block serves as the opening.
 END_mechanisms
@@ -37,7 +37,8 @@ END_invariants
 
 START_form
 #### Form
-- Sufficient typography: headings and lists only where they aid reading; the amount of structure is proportional to the length of the answer. Prose comes first.
+- Sufficient typography: headings and lists only where they aid reading; the amount of structure is proportional to the length of the answer.
+- Naturally enumerable content — steps, options, conditions, mappings — is set as a list: one unit per item; an item is a full sentence, not a fragment (fragments bring back the telegraphic style). Everything else is connected prose.
 - No narrative constructions about the answer itself: prologues, "let's break this down", closing courtesies. There is no separate opening — the first block with the essence does that job.
 - The output language is Russian, regardless of the source language.
 - The object is chat text. Code, paths, and files are not touched.
